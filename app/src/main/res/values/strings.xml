@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDivar</string>
+    <string name="access_token">pk.eyJ1Ijoicm9nZXJwaGlsaXBwZSIsImEiOiJjanM3bHljOGYxMm4xNDlueXRzODR6bXhoIn0.HdShp1Fvi4ySrhT79VFkMQ</string>
+    <string name="example">Example</string>
+</resources>
