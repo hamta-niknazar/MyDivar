@@ -78,7 +78,7 @@ dependencies {
 
 
 ### Features
-`Splash Screen` is the first screen visible to the user when the application's launched. Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched. Here, datas are fetched from divar api by a crawler which is : $$$$$
+`Splash Screen` is the first screen visible to the user when the application's launched. Splash screens are used to display some animations (typically of the application logo) and illustrations while some data for the next screens are fetched. Here, datas are fetched from divar api by a crawler which is : <a href="https://github.com/hamta-niknazar/MyDivarCrawler">My Divar Crawler</a>
 
 `Linear Recyclerview` RecyclerView makes it easy to efficiently display large sets of data. You supply the data and define how each item looks, and the RecyclerView library dynamically creates the elements when they're needed.
 
