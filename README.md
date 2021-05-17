@@ -14,29 +14,7 @@
 <img src="https://github.com/taherfattahi/divar_application/blob/master/gifs/4.gif" width="25%"/>
 </p>
 
-
-
-Add below codes to your **root** `build.gradle` file (not your module build.gradle file).
-```gradle
-allprojects {
-    repositories {
-        google()
-        jcenter()
-        maven { url 'https://jitpack.io' }
-        google()
-        mavenCentral()
-    }
-}
-```
-
-```gradle
-dependencies {
-    classpath "com.android.tools.build:gradle:4.1.1"
-    classpath "org.jetbrains:annotations:16.0.2"
-}
-```
-
-And add a dependency code to your **module**'s `build.gradle` file.
+Project dependencies:
 ```gradle
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
